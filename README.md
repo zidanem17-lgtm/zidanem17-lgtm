@@ -200,7 +200,9 @@ High-end React storefront with dark cinematic UI, product showcases, and polishe
 </p>
 
 
-> 💡 **The snake animation is powered by the workflow in** `.github/workflows/snake.yml`.
+<p align="center">
+  <img src="./pixel-space-shooter.svg" alt="Pixel space shooter animation firing at falling repository activities" width="900"/>
+</p>
 
 <br/>
 
