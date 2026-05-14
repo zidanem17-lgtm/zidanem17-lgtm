@@ -227,11 +227,17 @@ High-end React storefront with dark cinematic UI, product showcases, and polishe
 ## `> netstat -connect`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ADD-EMAIL-0a0e17?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Add email link"/>
+  <a href="mailto:c.miller@carlylemiller.dev">
+    <img src="https://img.shields.io/badge/EMAIL-c.miller%40carlylemiller.dev-0a0e17?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Email"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/ADD-LINKEDIN-0a0e17?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="Add LinkedIn link"/>
+  <a href="https://www.linkedin.com/in/carlyle-miller/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CARLYLE_MILLER-0a0e17?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/ADD-PORTFOLIO-0a0e17?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Add portfolio link"/>
+  <a href="https://carlylemiller.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-CARLYLEMILLER.DEV-0a0e17?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Portfolio"/>
+  </a>
 </p>
 
 <br/>
