@@ -1,7 +1,7 @@
 <!-- ANIMATED CYBER HEADER -->
 
 <p align="center">
-  <img src="./header.svg" alt="C.MILLER — Cybersecurity & Full-Stack Dev" width="900"/>
+  <img src="./Header.svg" alt="C.MILLER — Cybersecurity & Full-Stack Dev" width="900"/>
 </p>
 
 <!-- ANIMATED TYPING -->
@@ -200,7 +200,7 @@ High-end React storefront with dark cinematic UI, product showcases, and polishe
 </p>
 
 
-> 💡 **To enable the snake animation**, add a GitHub Actions workflow. See `snake-setup.yml` included in this package.
+> 💡 **The snake animation is powered by the workflow in** `.github/workflows/snake.yml`.
 
 <br/>
 
@@ -227,17 +227,11 @@ High-end React storefront with dark cinematic UI, product showcases, and polishe
 ## `> netstat -connect`
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-0a0e17?style=for-the-badge&logo=gmail&logoColor=00f0ff"/>
-  </a>
+  <img src="https://img.shields.io/badge/ADD-EMAIL-0a0e17?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Add email link"/>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0a0e17?style=for-the-badge&logo=linkedin&logoColor=00f0ff"/>
-  </a>
+  <img src="https://img.shields.io/badge/ADD-LINKEDIN-0a0e17?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="Add LinkedIn link"/>
   &nbsp;
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0a0e17?style=for-the-badge&logo=googlechrome&logoColor=00f0ff"/>
-  </a>
+  <img src="https://img.shields.io/badge/ADD-PORTFOLIO-0a0e17?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Add portfolio link"/>
 </p>
 
 <br/>
